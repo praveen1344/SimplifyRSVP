@@ -1,0 +1,26 @@
+.main-hdr{
+	position: fixed;
+	width: 2.5rem;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	max-width: 100%;
+	background-color: grey;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	/*padding: 0 1rem;*/
+	overflow: hidden;
+}
+.hdr-burger{
+
+}
+.navMenu{
+	display: flex;
+	flex-direction: column;
+}
+.nav-item{
+	display: flex;
+	padding: 0.5rem 0;
+	align-items: center;
+}

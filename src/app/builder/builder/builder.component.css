@@ -1,0 +1,26 @@
+:host{
+	position: fixed;
+	top: 5rem;
+	bottom: 0;
+	left: 2.5rem;
+	right: 0;
+	background-image: url('../../../assets/jfImport-bg.jpg');
+}
+
+
+.drop-container{
+	position: fixed;
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	right: 0;
+	bottom: 0;
+}
+.buidler-dropcontainer{
+	display: flex;
+	flex-direction: column;
+	border: 2px dashed #ccc;
+	width: 66.7%;
+	height: 75%;
+	margin-left: 3rem;
+}
